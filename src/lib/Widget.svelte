@@ -93,7 +93,7 @@
          <div class="input">
           <input type="text" placeholder="Let's share something" />
           <!-- svelte-ignore a11y_consider_explicit_label -->
-          <button class="send"><img src="/src/assets/Shape.svg" alt=""></button>
+          <button class="send"><img src="https://cdn.jsdelivr.net/gh/biswarup-capsi/chatbot-widget@master/dist/Shape.svg" alt=""></button>
          </div>
       </div>
     </div>
@@ -119,7 +119,7 @@
          <div class="input">
           <input type="text" placeholder="Let's share something" />
           <!-- svelte-ignore a11y_consider_explicit_label -->
-          <button class="send"><img src="/Shape.svg" alt=""></button>
+          <button class="send"><img src="https://cdn.jsdelivr.net/gh/biswarup-capsi/chatbot-widget@master/dist/Shape.svg" alt=""></button>
          </div>
       </div>
     </div>

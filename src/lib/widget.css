@@ -10,7 +10,7 @@
   .chat-icon {
     /* position: absolute; */
     bottom: 20px;
-    background-image: url("/Objects.svg");
+    background-image: url("https: //cdn.jsdelivr.net/gh/biswarup-capsi/chatbot-widget@master/dist/Objects.svg");
     background-repeat: no-repeat;
     background-size: contain;
     /* background-size: 120%; */
